@@ -10,7 +10,7 @@ Frontend: HTML5, CSS3 e JavaScript
 
 Automação e backend low-code: n8n
 
-Geração de código e estilo: Inteligência Artificial (OpenAI GPT)
+Geração de código e estilo: Inteligência Artificial (Google Gemini Chat Model)
 
 ✨ Como Funciona
 
