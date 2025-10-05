@@ -22,4 +22,6 @@ Um código HTML com uma estrutura básica e estilização mínima.
 
 Um código CSS com um fundo mágico: gradientes, animações ou efeitos visuais criativos com base na cor escolhida.
 
+Link do site "https://luizbarcelar.github.io/fundo-magico/"
+
 O sistema, através do n8n, orquestra a requisição e retorna o código para visualização e download.
